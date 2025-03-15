@@ -9,5 +9,5 @@
       state: present 
   - name: start apachr
     service:
-      name: apach2
+      name: apache2
       state: started 
