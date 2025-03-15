@@ -42,5 +42,7 @@ Benefits of Ansible
  sudo add-apt-repository --yes --update ppa:ansible/ansible
  sudo apt install ansible ansible-doc
 
+####################{ To run ansible playbook }##################
+ansible-playbook "exact playbook location" 
 
 
